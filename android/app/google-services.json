@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "37290099778",
+    "firebase_url": "https://learnovate-31ad9-default-rtdb.firebaseio.com",
+    "project_id": "learnovate-31ad9",
+    "storage_bucket": "learnovate-31ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37290099778:android:9dd471045caaaeb0ca19db",
+        "android_client_info": {
+          "package_name": "com.haryanaassociationofkenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37290099778-sff8mjfcbk72kamo687aslj7ag366kuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqy1CuH2kx8Z07NnZrTqqYDEgYEbc8DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37290099778-fhvdehvjs20drnngb656mduguh7pcptr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37290099778-935tl55j51i87flfk1gld8fgqibcam49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learnovate.learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37290099778:android:a5ae7fea928d7ae5ca19db",
+        "android_client_info": {
+          "package_name": "com.haryanaassociationofkenya.haryanaassociationofkenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37290099778-sff8mjfcbk72kamo687aslj7ag366kuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqy1CuH2kx8Z07NnZrTqqYDEgYEbc8DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37290099778-fhvdehvjs20drnngb656mduguh7pcptr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37290099778-935tl55j51i87flfk1gld8fgqibcam49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learnovate.learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37290099778:android:69c7639056f5d028ca19db",
+        "android_client_info": {
+          "package_name": "com.learnovate.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37290099778-sff8mjfcbk72kamo687aslj7ag366kuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqy1CuH2kx8Z07NnZrTqqYDEgYEbc8DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37290099778-fhvdehvjs20drnngb656mduguh7pcptr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37290099778-935tl55j51i87flfk1gld8fgqibcam49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learnovate.learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37290099778:android:319bc96771db5e31ca19db",
+        "android_client_info": {
+          "package_name": "com.learnovate1.learnovate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37290099778-sff8mjfcbk72kamo687aslj7ag366kuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqy1CuH2kx8Z07NnZrTqqYDEgYEbc8DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37290099778-fhvdehvjs20drnngb656mduguh7pcptr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37290099778-935tl55j51i87flfk1gld8fgqibcam49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learnovate.learn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
